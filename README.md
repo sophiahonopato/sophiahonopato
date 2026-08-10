@@ -119,46 +119,6 @@ Never stop learning 🚀
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sophiahonopato&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiahonopato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiahonopato&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sophiahonopato&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sophiahonopato/sophiahonopato/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🌎 Connect With Me
 
 <div align="center">
